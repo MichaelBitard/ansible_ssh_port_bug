@@ -1,0 +1,5 @@
+[ANYNAME]
+172.17.11.200 ansible_ssh_port=61222 ansible_ssh_user=user ansible_ssh_pass=pass ansible_sudo_pass=pass user=user
+
+[ANOTHER_ONE]
+172.17.11.200 ansible_ssh_port=59222 ansible_ssh_user=user ansible_ssh_pass=pass ansible_sudo_pass=pass user=user
